@@ -10,7 +10,7 @@ a {
 .haeder-backgroud{
 background-color:  #FFF;
 }
-.h1-background{
+.section-one-background{
     background-color: #2E2F42;
 }
 .strategy-backgroud{ background-color:  #FFF;
@@ -34,10 +34,6 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
-
-.logo-accent {
-    color: #2e2f42;
-}
 }
 .logo-studio {
     color: #2E2F42;
@@ -52,7 +48,7 @@ text-transform: uppercase;
 .header-address {
     font-style: normal;
 }
-.section-1 {
+.section-one {
     color: #FFF;
 text-align: center;
 font-family: "Roboto",sans-serif;
@@ -137,7 +133,7 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #434455;
 }
-.h2-our-team {
+.section-three-styles{
     color: #2E2F42;
 text-align: center;
 font-family: "Roboto",sans-serif;
@@ -177,7 +173,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 text-transform: uppercase;
 }
-.h3-style {
+.section-two-styles{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -195,9 +191,7 @@ line-height: 1.17;
 letter-spacing: 0.54px;
 text-transform: uppercase;
 }
-.logo.footer.accent {
-    color: : #f4f4fd;
-    }
+
 .text-footer {
     color: #F4F4FD;
 font-family: "Roboto",sans-serif;
